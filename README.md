@@ -70,6 +70,8 @@ The application settings can be found in `src/main/resources/application.propert
 - [ ] PDF/Excel export functionality (using Apache POI/iText).
 - [ ] OAuth2 (Google/GitHub) social login integration.
 
----
+---<img width="1919" height="1003" alt="Screenshot 2026-04-10 192223" src="https://github.com/user-attachments/assets/b70b2dc7-8270-4b58-8578-94e3edacb629" />
+
+<img width="1919" height="956" alt="Screenshot 2026-04-10 192244" src="https://github.com/user-attachments/assets/2da3e557-d3dd-4f17-86b0-4b7d78263743" />
 
 **Built with ❤️ for Financial Clarity.**
